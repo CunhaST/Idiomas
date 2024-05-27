@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    margin: 0 auto;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.Div1{
+    background-color: #dfdfdf;
+    padding: 10px;
+    margin-bottom: 50px;
+    h1{
+    font-weight: bold;
+    padding: 10px;
+
+    }
+
+    p{
+    color: #0291dd;
+    font-size: 30px;
+
+    }
+
+    img{
+    width: 200px;
+    background-color: white;
+
+    }
+
+
+}
+
+
+
+.Div2{
+    background-color: #0291dd;
+    margin: 0 auto;
+    width: 1300px;
+
+    h2{
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+
+    }
+
+    p{
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+
+    }
+
+    img{
+    padding: 10px;
+    width: 100px;
+
+    }
+}
+
+
+
+.Div3{
+    width: 1300px;
+    padding: 20px;
+
+    h3{
+    font-weight: bold;
+    font-size: 30px;
+
+    }
+
+    p{
+    color: black;
+    font-size: 30px;
+
+    }
+
+    img{
+    width: 100px;
+
+    }
+}
+
+
+
+.Div4{
+    background-color: #0291dd;
+    width: 1300px;
+    margin-bottom: 50px;
+    padding: 20px;
+    
+    h4{
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+
+    }
+
+    p{
+    color: white;
+    font-size: 30px;
+
+    }
+
+    img{
+    width: 100px;
+    padding: 10px;
+
+    }
+}
+
+
+
+.Div5{
+    width: 700px;
+    h1{
+    font-weight: bold;
+    font-size: 30px;
+
+    }
+
+    p{
+    color: #0291dd;
+    padding: 10px;
+    font-size: 30px;
+
+    }
+
+    img{
+    width: 100px;
+
+    }
+}
